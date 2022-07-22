@@ -1,4 +1,4 @@
-# Xbox Store Controller
+# <img src="./img/logo.png" height="40" width="40"/>ㅤXbox Store Controller
 
 #### Uma segunda versão de uma Landing Page já criada aqui no meu perfil, desta vez trazendo a store da Xbox e não do PlayStation
 
